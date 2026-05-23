@@ -1,0 +1,40 @@
+1) 
+Funktion berechne_umfang(durchmesser) soll den Umfang eines Kreises zurückgeben. Als Konstante PI reicht 3.14 (optional: recherchieren, wo die Konstante PI in Python definiert ist).
+
+2)
+Funktion berechne_volumen(breite, länge, höhe) soll das Volumen eines Quaders berechnen.
+
+3)
+Ein Warenkorb soll als eine Liste von Tupel der Form (produkt_name, einzel_preis, anzahl) aufgebaut werden.
+Funktion berechne_gesamtpreis(warenkorb) schreiben.
+
+
+4)
+Umfangreich - bitte schauen, wie weit man kommt
+
+Schreiben Sie den Code für einen Getränkeautomaten, je nach Bedarf sollten auch Funktionen geschrieben werden.
+
+Dieser Automat soll mehrere Getränke zur Auswahl haben, die verschiedene Preise haben können.
+
+Anfangs soll ein Menü ausgegeben, welches beispielsweise so aussehen könnte:
+
+*** Getränk-O-Mat ***
+1 - Cola: 1.50 Euro
+2 - Fanta: 1.50 Euro
+3 - Sprite: 1.50 Euro
+4 - Saft: 1.20 Euro
+5 - Wasser: 0.80 Euro
+6 - Red Bull: 3.00 Euro
+0 - beenden
+Bitte wählen Sie ein Getränk: (1-6) 
+
+Nach Auswahl des Getränks wird der Benutzer aufgefordert nacheinander Münzen einzuwerfen. Das Getränk wird erst dann ausgegeben, wenn der Betrag vollständig bezahlt ist. Erst dann bekommt der Benutzer sein Getränk und eventuelles Wechselgeld. 
+
+Überlegen Sie sich geeignete Datenstrukturen (Listen, Tupel, Mengen, Dictionaries), wie sie z.B. für die Liste der Getränke oder für die vorhandenen Münzen nötig sind.
+
+
+
+
+
+
+

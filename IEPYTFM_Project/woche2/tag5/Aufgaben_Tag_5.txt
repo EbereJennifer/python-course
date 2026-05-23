@@ -1,0 +1,15 @@
+1)
+Datumsobjekt erster_tag für ersten Tag unseres Kurses (letzten Dienstag) erzeugen, in drei verschiedenen Formaten ausgeben z.B. Iso, deutsches und US-Format.
+Zu erster_tag mehrere Tage (z.B. 2, 5 und 8) als Delta dazuzählen und abziehen und jeweils Ergebnisdatum einschließlich Wochentag anzeigen. 
+
+
+2) 
+Tag und Uhrzeit nacheinander als Input im deutschen Format einlesen, ein datetime Objekt daraus machen.
+
+
+3)
+Aus der Dokumentation einige neue Abkürzungen ähnlich %j finden und ausprobieren.
+
+4) 
+Mit einem datetime Objekt mehrere Rechenoperationen durchführen und Ergebnis anzeigen (z.B. eine Stunde dazuzählen, einige Minuten abziehen usw).
+Eine Liste mit Zeitpunkten mit der map-Funktion umwandeln, so dass alle Elemente 10 Minuten später sind.

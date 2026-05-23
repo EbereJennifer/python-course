@@ -1,0 +1,11 @@
+1) 
+Eine Klasse RandomIterator liefert jeweils Zufallswerte im Bereich 0.0 - 1.0 zurück (Kommazahlen). Die Iteration stoppt, sobald ein Wert > 0.99 ist.
+
+
+2) 
+Einige Generator Funktionen ausprobieren z.B.
+read_lines_from_file(file_path), square_numbers(start, end)
+
+
+3)
+In Aufgabe 2 von Tag 8 noch Befehle zum Aktualisieren und Löschen unterbringen.

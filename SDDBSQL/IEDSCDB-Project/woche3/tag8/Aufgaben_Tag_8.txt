@@ -1,0 +1,29 @@
+1) 
+In MongoHelper Methoden delete_one_demo und delete_many_demo implementieren, von Hauptprogramm aus aufrufen.
+
+
+2) 
+Klasse Person mit name, ort.
+In Schleife Menü anzeigen: 
+Neue Person anlegen | Suche nach Name | Suche nach Ort | Beenden
+
+Mit MongoDB reaisieren.
+
+
+3)
+Recherchieren: Mindestens eine weitere NoSQL-Datenbank.
+
+)
+Implement the methods `delete_one_demo` and `delete_many_demo` in MongoHelper and call them from the main program.
+
+
+2)
+Class `Person` with the fields `name` and `location`.
+Display the menu in a loop:
+Create New Person | Search by Name | Search by Location | Exit
+
+Implement using MongoDB.
+
+
+3)
+Research: At least one additional NoSQL database.

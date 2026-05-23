@@ -1,0 +1,19 @@
+1) 
+Kleine eigene Klasse mit zwei Attributen, z.B. Person mit vorname und nachname. Klassenvariable anzahl, eine Klassenmethode.
+
+Methoden __init__, __str__, __eq__, __del__
+
+- Mit einigen Objekten ausprobieren
+- ein Tupel mit solchen Objekten erzeugen
+- ein Dictionary mit Objekten als Values erzeugen.
+
+2) 
+Skript player.py
+Klasse Player mit 4 Instanzattributen (name, birthday, score, is_active).
+Methoden für Stringdarstellung und Vergleich auf inhaltliche Gleichheit.
+Klassenmethode read() liest 4 Werte von Konsole und erzeugt daraus ein Player-Objekt.
+
+In player_main.py
+Schleife fragt ab, ob noch ein weiterer Durchgang erfolgen soll und lässt pro Durchgang einen Player einlesen.
+Nach der Schleife sollen alle Player-Objekte in einer Liste sein und numeriert ausgegeben werden.
+

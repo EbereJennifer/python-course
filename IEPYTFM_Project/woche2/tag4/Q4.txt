@@ -1,0 +1,57 @@
+1) Wie viele Leerzeilen nach einer Funktionsdefinition sind nach PEP8 empfohlen?
+
+a) Eine
+b) Nicht genau festgelegt
+c) Drei
+d) Zwei
+e) Keine
+
+answer -> d
+
+
+2) Was ist richtig bei rekursiven Funktionen?
+
+a) Sie dürfen einen andere rekusive Funktion aufrufen, aber nicht sich selbst.
+b) Sie dürfen sich selbst aufrufen.
+c) Wenn das Aufrufargument kleiner wird (n -> n-1 -> n-2 ...), kommt die Berechnung
+immer an ein Ende und kann das Ergebnis liefern.
+d) Rekursive Funktionen sollten möglichst immer zu iterativen umgebaut werden.
+
+answer -> b, c
+c is correct, This describes the idea of a base case
+If n keeps decreasing → eventually reaches stopping condition
+
+
+
+
+3) Aussagen zu Lambdas:
+
+a) Jedes lambda kann auch als Funktion mit def definiert werden.
+b) Jede normale Funktion kann auch als lambda definiert werden
+c) Kann mehrere Parameter enthalten
+d) Sinnvoll als zweites Argument bei filter oder map bei Listen
+
+answer -> a, c, d
+
+a -> lambda x: x + 1
+or -> def f(x)
+          return x + 1
+
+c -> lambda x, y: x + y
+d -> list(filter(lambda x: x > 0, numbers))
+
+
+
+
+4) Was gilt für eine Funktion def f1(*alle_argumente):
+
+a) Fehler: Parameter muss args heißen
+b) Kann mit >= 1 Argumenten aufgerufen werden
+c) kann so aufgerufen werden: f1()
+d) hat beliebig viele Schlüsselwort-Parameter
+e) Kann nur mit >= 1 Argumenten aufgerufen werden
+
+answer -> b, c
+
+b -> It can be called with ≥1 arguments
+c -> It can also be called with 0 arguments. Then alle_argumente is an empty tuple ()

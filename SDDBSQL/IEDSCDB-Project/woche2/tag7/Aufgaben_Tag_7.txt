@@ -1,0 +1,49 @@
+1) 
+Auf dem lokalen System Verzeichnis für die Arbeit mit MongoDB erzeugen, Name z.B. sachen_mongo, sollte unproblematischer Ort sein (nicht in Cloud, nicht synchronisiert), z.B. C:\dev\kurs\sachen_mongo\ wäre geeigneter Pfad.
+Darin die downgeloadete Zip-Datei von MongoDB extrahieren, es sollte dann ein Unterverzeichnis mongodb-win32-x86_64-windows-8.0.0 entstehen.
+
+Downloadlink für Windows: https://fastdl.mongodb.org/windows/mongodb-windows-x86_64-8.0.0.zip
+
+
+2)
+Mindestens eine neue Umgebungsvariable anlegen, ändern und löschen.
+
+
+3) 
+Wahlweise mit Sqlite oder Postgresql (hier recherchieren nötig) arbeiten.
+
+Klasse ProduktManager verwendet Datenbank waren_db:
+Tabelle produkte mit nummer, name, hersteller_id, is_eol, 
+Tabelle hersteller mit hersteller_id, name, ort. 
+Geeignete Fremdschlüsselbeziehung zwischen den beiden Tabellen.
+
+SQL Operationen (INSERT, SELECT, UPDATE, DELETE) ausprobieren, geeignete Methoden dafür definieren. Auch Methoden, um alle Produkte eines Herstellers anzuzeigen.
+
+Als Beispieldaten auch die IDE-Produkte von Jetbrains eintragen.
+
+PRAGMA foreign_keys = ON;
+
+
+1)
+Create a directory on your local system for working with MongoDB; name it something like `sachen_mongo`. It should be located in a convenient place (not in the cloud, not synchronized); for example, `C:\dev\kurs\sachen_mongo\` would be a suitable path.
+Extract the downloaded MongoDB ZIP file into this directory; this should create a subdirectory named mongodb-win32-x86_64-windows-8.0.0.
+
+Download link for Windows: https://fastdl.mongodb.org/windows/mongodb-windows-x86_64-8.0.0.zip
+
+
+2)
+Create, modify, and delete at least one new environment variable.
+
+
+3)
+Work with either SQLite or PostgreSQL (research required here).
+
+The ProductManager class uses the waren_db database:
+Products table with number, name, manufacturer_id, is_eol,
+Manufacturers table with manufacturer_id, name, location.
+Establish appropriate foreign key relationships between the two tables.
+
+Test SQL operations (INSERT, SELECT, UPDATE, DELETE) and define appropriate methods for them. Also include methods to display all products from a specific manufacturer.
+
+Enter JetBrains IDE products as sample data.
+

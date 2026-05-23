@@ -1,0 +1,45 @@
+1) Was ist eine gültige list comprehension
+
+a) [xyz for xyz in {1, 2, 3}]
+b) [xyz for xyz in [1, 2, 3]]
+c) {xyz for xyz in [1, 2, 3]}
+d) [xyz while xyz in [1, 2, 3]]
+
+answer = a, b
+
+
+
+
+
+2) Was ist richtig bei einer set comprehension?
+
+a) Sie kann eine set erzeugen oder eine vorhandene set abändern.
+b) Die kann eine if-Klausel enthalten.
+c) Manchmal erzeugt sie ein dictionary.
+d) Sie erzeugt den selben Typ der Elemente wie den Ausgangstyp.
+
+Answer = b
+
+
+3) Wo hat das Ergebnis der Comprehension 3 Elemente:
+
+a) [xyz for xyz in {1, 2, 3, 2, 1}]
+b) {xyz for xyz in [1, 2, 3, 2, 1]}
+c) [xyz for xyz in [1, 2, 3, 2, 1]]
+d) {xyz: xyz for xyz in [1, 2, 3, 2, 1]}
+
+Answer = a, b, d
+
+
+4) Wie kann man die Funktion aufrufen:
+
+def f(a, /, b):
+    print(a, b)
+
+a) f(1, /, 2)
+b) f(1, 2)
+c) f(a=1, b=2)
+d) f(1, b=2)
+e) Gar nicht, es kommt eine Fehlermeldung
+
+Answer = b, d

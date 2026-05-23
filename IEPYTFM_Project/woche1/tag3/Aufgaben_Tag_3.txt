@@ -1,0 +1,22 @@
+1)
+Rekursive Funktion quersumme_rekursiv(zahl) sowie quersumme_iterativ(zahl) mit einer Schleife; beide sollen die Quersumme berechnen,
+z.B. Quersumme von 143 ist 1 + 4 + 3 = 8.
+The recursive function `quersumme_rekursiv(zahl)` and the iterative function `quersumme_iterativ(zahl)` using a loop;
+both are intended to calculate the sum of the digits, e.g., the sum of the digits of 143 is 1 + 4 + 3 = 8.
+
+2) 
+Funktion rekursiv_min_max soll in rekursiver Weise das Minimum und Maximum einer Liste ganzer Zahlen berechnen. Als Ergebnis soll ein Tupel zurückkommen.
+Type hints verwenden sowie durch assert checken, dass die Liste nicht leer ist.
+
+Beispiel: rekursiv_min_max([3, 7, 5, 6, 1, -3, 4]) soll (-3, 7) liefern
+
+Evt. hilfreich als Vorbereitung: Nur das Minimum als rekursive Funktion berechnen.
+
+
+3)
+Die rekursive Funktion multiplikation(a, b) soll a*b liefern, allerdings darf an Rechenoperationen nur die Addition verwendet werden.
+
+
+
+4)
+Stoff der ersten Tage wiederholen, evt. hilfreich: Optional sich wichtige Sachen in Markdown-Format formatiert aufschreiben.

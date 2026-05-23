@@ -1,0 +1,41 @@
+1) Wie kann die Kopfzeile eines Konstruktors aussehen:
+
+a) def __init__()
+b) def init(self, a, b)
+c) def __init__(self)
+d) def __create__(self, a, b)
+
+answer -> c
+
+
+
+2) Welche Methoden haben Zugriff auf Instanzvariablen?
+
+a) 
+@classmethod
+def print_info(cls)
+b) def print_info(self, a, b)
+c) def print_info(self)
+d) def print_info()
+
+answer -> b, c
+    
+
+3) Welche Methoden haben besondere Bedeutung (magic methods):
+
+a) __eq__
+b) equals
+c) __lt__
+d) add  
+
+answer _> a, c
+
+4) Was sind Elemente einer Klasse
+
+a) Instanzmethoden
+b) Globale Konstante
+c) Builtin Funktionen
+d) Klassenmethoden
+e) Klassenvariable
+
+answer -> a, d, e

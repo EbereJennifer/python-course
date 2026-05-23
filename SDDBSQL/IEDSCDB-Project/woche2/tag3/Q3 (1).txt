@@ -1,0 +1,55 @@
+1) Welche Diagramme werden für Datenmodellierung benutzt?
+
+a) UML-Diagramme  
+b) ER-Diagramme 
+c) Struktogramme 
+d) Flussdiagramme
+
+answer -> b
+ER-Diagramme (Entity-Relationship-Diagrams) are a way to visually model a database.
+a) UML-Diagramme Used for software design (classes, objects, behavior), not mainly for database modeling
+Unified Modeling Language diagrams can be used for data modeling.
+Especially class diagrams:
+represent entities (classes)
+show attributes (fields)
+show relationships between them
+
+b) ER-Diagramme
+Entity-Relationship Diagram is specifically designed for data modeling.
+Shows:
+entities (e.g., Customer, Order)
+attributes (name, ID, etc.)
+relationships (e.g., “Customer places Order”)
+
+👉 This is the classic and most important data modeling diagram
+
+✔️ Definitely correct
+
+
+
+2) Was trifft auf Sqlite zu:
+
+a) Es ist bei Android und iOS mit dabei. 100
+b) Man braucht kein externes package installieren.100
+c) Es unterstützt die CRUD Funktionen.100
+d) Man kann es auch für Client-Server Entwicklung einsetzen. 
+    
+answer-> a, b, c
+
+3) Wie kann man Parameter in SQL-Abfragen setzen:
+
+a) als Tupel
+b) als Liste
+c) als Dictionary
+d) als Array
+
+answer-> a, b, c
+
+4) Was sind relationale Datenbanken?
+
+a) SQL Server (Microsoft)
+b) Oracle
+c) MySQL
+d) MongoDB NoSql 
+
+answer-> a, b, c

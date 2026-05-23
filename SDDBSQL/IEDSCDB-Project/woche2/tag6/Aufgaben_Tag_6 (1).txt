@@ -1,0 +1,39 @@
+1) 
+Local history in Pycharm üben: 
+Mehrere Schritte in Python Datei durchführen:
+- Zeilen einfügen, z.B. neue Funktion definieren
+- Zeilen ändern, z.B. Namen umbenennen
+- Zeilen löschen, z.B. Funktion löschen
+Immer wieder die gesamte local history betrachten und auch auf frühere Zustände zurückkehren.
+
+2)
+In Pycharm das Toolfenster Structure (Shortcut Alt+7) mehrmals ein- und ausblenden, an verschiedene Stellen im Hauptfenster hinziehen und bei der Lösung der Aufgabe 3 eingeblendet lassen und verwenden.
+
+3) 
+In tag5/kunden_verwaltung.py noch folgende Methoden dazuschreiben:
+
+- aktualisieren(self, kunde) # Argument ist aktualisiert, z.B. Name geändert
+- löschen(self, nummer)
+- suchen_nach_namen(self, suchtext)
+- suchen_nach_email(self, suchtext)
+- suchen_nach_namen_und_email(self, suchtext_name, suchtext_email)
+
+1)
+Practice using local history in PyCharm:
+Perform several steps in a Python file:
+- Insert lines, e.g., define a new function
+- Modify lines, e.g., rename variables
+- Delete lines, e.g., delete a function
+Regularly review the entire local history and return to previous states.
+
+2)
+In PyCharm, show and hide the Structure tool window (shortcut Alt+7) several times, drag it to different locations in the main window, and keep it visible and use it while solving Task 3.
+
+3)
+Add the following methods to tag5/kunden_verwaltung.py:
+
+- update(self, customer) # Argument is updated, e.g., name changed
+- delete(self, number)
+- search_by_name(self, search_text)
+- search_by_email(self, search_text)
+- search_by_name_and_email(self, search_text_name, search_text_email)

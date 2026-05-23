@@ -1,0 +1,21 @@
+1) 
+Klasse Wettermessung soll Attribute für ort, sonnenaufgang, temperatur enthalten.
+10 Objekte dieser Klasse mit Zufallswerten erzeugen und ausgeben (die Daten sollen sichtbar sein).
+
+
+2)
+Zur Geschichte der Objektorientierung recherchieren, frühe Programmiersprachen, gab es Vorläufer usw
+
+3)
+Optional: Zu den Normalformen der relationalen Datenbanken recherchieren (1. - 6. Normalform)
+
+1)
+The WeatherMeasurement class should contain attributes for location, sunrise, and temperature.
+Generate and output 10 objects of this class with random values (the data should be visible).
+
+
+2)
+Research the history of object-oriented programming, early programming languages, whether there were precursors, etc.
+
+3)
+Optional: Research the normal forms of relational databases (1st–6th normal forms)

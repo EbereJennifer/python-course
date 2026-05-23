@@ -1,0 +1,38 @@
+1) Wie kann in Python programmiert werden?
+
+a) Prozedural 
+b) Objektorientiert
+c) Hardwarenah 
+d) Rein funktional (wie Haskell, Lisp)
+
+answer-> a, b
+
+
+2) Was sind 2026 verbreitete Datenbanksysteme im Unternehmensumfeld?
+“Which database systems are commonly used in enterprise environments in 2026?
+
+a) DB2
+b) Oracle
+c) Sybase
+d) Informix 
+    
+answer-> a, b
+
+3) Wie heisst die Objekterzeugungsmethode in Python 
+
+a) init
+b) create
+c) new
+d) __init__  
+
+answer-> d
+
+4) Was ist richtig bezüglich Methoden in der objektorientierten Programmierung?
+
+a) Sie sind globale Funktionen, die ein Objekt als ersten Parameter erhalten
+b) Eine allgemeine Art/Herangehensweise bei Problemen
+c) Methoden und Funktionen bedeuten das gleiche
+d) Methoden sind Funktionen innerhalb einer Klasse, deren erster Parameter immer das aktuelle Objekt ist
+ Methods are functions within a class whose first parameter is always the current object
+
+answer-> d

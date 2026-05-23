@@ -1,0 +1,15 @@
+1)
+Modul konverter.py mit einigen Funktionen für die Umrechnung zwischen verschiedenen Einheiten z.B. Fahrenheit in Celsius, Kilometer in Meilen
+
+Von konverter_main aus aufrufen
+
+
+2) 
+Zwei Module textbearbeitung.py und hauptprogramm.py.
+Funktionen in textbearbeitung z.B. umdrehen(text), woerter_zaehlen(text).
+
+
+3) 
+Mit Python Arrays folgende Operationen definieren:
+Addition und Subtraktion zweier Vektoren, Skalarmultiplikation Zahl*Vektor.
+Falls nötig, Definitionen recherchieren.

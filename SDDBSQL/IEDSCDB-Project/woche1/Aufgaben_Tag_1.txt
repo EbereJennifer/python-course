@@ -1,0 +1,26 @@
+1) 
+Skript library.py:
+Eine Datenbank library.db
+und eine Tabelle books mit den Spalten "isbn" als PK, "autor", "titel", "jahr" erzeugen.
+
+Funktionen:
+- show_all soll alle Daten übersichtlich anzeigen
+- input_book soll Werte für isbn, autor, titel, jahr einlesen lassen und in der Datenbank als neuen Datensatz einfügen.
+
+- Hauptprogramm: Menü mit 3 Optionen Anzeigen - Eingeben - Beenden als Schleife.
+
+
+1)
+library.py script:
+Create a database named library.db
+and a table named books with the columns “isbn” (primary key), “author”, ‘title’, and “year”.
+
+Functions:
+- show_all should display all data clearly
+- input_book should allow values for isbn, author, title, and year to be entered and insert them into the database as a new record.
+
+- Main program: Menu with 3 options—Display, Enter, Exit—as a loop.
+
+
+2)
+Versuchen, Pycharm auf die neueste Version upzudaten.

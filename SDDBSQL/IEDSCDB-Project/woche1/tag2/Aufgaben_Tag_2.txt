@@ -1,0 +1,25 @@
+1) 
+Eine Datenbank wetter.db und eine Tabelle temperaturen mit den Spalten id (autogenerierter primary key), ort, datum, temperatur.
+
+100 zufällige Datensätze erzeugen (z.B. ort aus 10 Städtenamen, temperatur aus Intervall -10.0 - 20.0, datum aus den letzten 100 Tagen) und in Datenbank eintragen.
+
+4 Funktionen definieren, jeweils mit SQL-Parametern, falls nötig. Hier die Parameter als Tupel übergeben.
+
+- show_all
+- delete soll über nr Datensatz löschen, nr einlesen
+- create soll neuen Datensatz erzeugen, Werte einlesen
+- update soll Datensatz aktualisieren, Werte einlesen
+
+
+1)
+A database named `wetter.db` and a table named `temperaturen` with the columns `id` (auto-generated primary key), `ort`, `datum`, and `temperatur`.
+
+Generate 100 random records (e.g., location from 10 city names, temperature from the range -10.0 to 20.0, date from the last 100 days) and insert them into the database.
+
+Define 4 functions, each with SQL parameters if necessary. Pass the parameters as tuples here.
+
+- show_all
+- delete should delete the record with id nr, read in nr
+- create should create a new record, read in values
+- update should update the record, read in values
+

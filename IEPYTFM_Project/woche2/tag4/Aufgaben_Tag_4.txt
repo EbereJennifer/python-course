@@ -1,0 +1,27 @@
+1)
+Evt. recherchieren: Satz des Pythagoras, Anwendung auf die Seiten eines rechtwinkligen Dreiecks.
+Funktion definieren:
+Man soll die beiden kürzeren Seitenlängen als Kommazahlen eingeben können, die Länge der längsten Seite (Hypotenuse) soll berechnet werden.
+
+
+2) 
+Funktion lottozahlen() berechnet 6 Lottozahlen im Bereich 1-49. Geeignete Funktion aus random soll verwendet werden.
+
+
+3)
+Eine geeignete Datenstruktur (mehrere ausprobieren) mit vier Begrüßungsformeln (wie "Hallo", "Guten Tag", ...) erstellen, zufällig eine Begrüßung auswählen.
+Create a suitable data structure (try out several) containing four greetings (such as “Hello,” “Good day,” ...) and randomly select a greeting.
+
+4)
+Funktion give_me_a_random_username(anzahl_buchstaben) soll zufällige Namen generieren. Das Passwort sollte eine Mischung aus Groß-
+und Kleinbuchstaben, Zahlen und Trennzeichen sein. Die genauen Regeln sind hier nicht detailliert vorgegeben, ein pragmatisches Vorgehen reicht.
+
+Hinweis: Zu Modul string recherchieren.
+
+5)
+Eine Wertetabelle aller Sinus- und Cosinuswerte für 0 - 180 Grad (Abstand 10 Grad) berechnen und anzeigen.
+
+<b>Anton Kölbl</b>
+Optional: Funktion make_table(function_obj)
+<b>Anton Kölbl</b>
+Funktionen höherer Ordnung: filter, map

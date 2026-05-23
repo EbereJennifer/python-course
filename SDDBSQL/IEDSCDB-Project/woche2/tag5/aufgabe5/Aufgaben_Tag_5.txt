@@ -1,0 +1,13 @@
+1) 
+Klasse Produkt (produkt_id, name, preis, begleittext) soll einige übliche Methoden erhalten.
+
+In einem separaten Skript: Liste von 10 Produkten erzeugen.
+Funktion sort_produkte(produkt_liste, key) soll eine In-place Sortierung vornehmen, dann mit einigen unterschiedlichen keys testen.
+
+2) 
+Methoden in DatenHelper definieren und ausprobieren:
+- datensatz_erzeugen
+- datensatz_aktualisieren
+- nach_name_suchen 
+- nach_email_suchen
+- datensatz_löschen

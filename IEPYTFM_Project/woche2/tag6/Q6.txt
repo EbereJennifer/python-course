@@ -1,0 +1,64 @@
+1) Wie kann man die Funktion aufrufen:
+
+def f(a, b, *, c):
+    print(a, b, c)
+
+a) Gar nicht, die Definition gibt Fehlermeldung.
+b) f(1, 2, 3)
+c) f(a=1, b=2, 3)
+d) f(a=1, b=2, c=3)
+
+answer -> d
+
+
+
+2) Was ist richtig? 
+
+lambda x, y: y = 2*x + 1
+
+a) Das Lambda ist nicht korrekt und löst Fehler aus
+b) Es gibt kein Schlüsselwort lambda.
+c) Das Lambda hat zwei Parameter.
+d) Das Lambda liefert einen Wahrheitswert, je nachdem ob y gleich 2*x + 1 ist.
+
+answer -> a, c
+in a ´lambda´ you can only use an expression but not "="
+lambda is a valid Python keyword
+lambda x, y: y == 2*x + 1  #This will return True or False
+
+
+
+
+3) Welcher Aufruf ist korrekt:
+
+def f(a, **b):
+    print(a, b)
+
+a) f(1, 2)
+b) f(1, c=2)
+c) f(a=4, c=6)
+d) Definition gibt Fehlermeldung
+
+What this means
+a → one required positional (or keyword) argument
+**b → collects any extra keyword arguments into a dictionary
+
+answer-> b, c
+
+
+
+
+4) Was ist gültig nach dem Import:
+
+import random
+
+a) a = random()
+b) print(random)
+c) print(random())
+d) print(random.random())
+e) x = random.random(1, 6)
+
+answer -> b, d
+
+print(random)
+<module 'random' from 'C:\\Users\\eagbarakwe\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\random.py'>

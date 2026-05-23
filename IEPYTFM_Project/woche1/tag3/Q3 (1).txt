@@ -1,0 +1,66 @@
+1) Was sind bekannte Bibliotheken oder Frameworks im Python Umfeld?
+
+a) Tensorflow
+b) Pandas
+c) Spring Boot
+d) Pytorch
+e) Django
+
+c) Spring Boot → This is for Java, not Python
+
+
+2) Welche Aussage(n) ist/sind korrekt:
+
+a) Die PEPs spielen eine wichtige Rolle bei der Weiterentwicklung der Sprache.
+b) Wie viele andere Sprachen (C#, C++, Java) hat Python viel von C übernommen.
+c) In Python wird immer objektorientiert programmiert.
+d) Funktionen haben in Python mindestens einen Parameter, ohne Parameter schreibt man eine Prozedur.
+    
+answer -> a, b
+
+c) Python supports:
+procedural
+functional
+object-oriented
+
+
+3) Was sind korrekte Kopfzeilen von Funktionen:
+
+a) def f1(a=1, b=2, c=3):
+b) def f2(x, y=True):
+c) def 1versionSort(liste1, liste2):
+d) def g(function1, function2):
+e) def f3(a=5, b, c):
+f) def f4(a, b, a):
+
+
+e)
+def f3(a=5, b, c):
+ INVALID
+Default parameters must come after non-default ones
+
+f)
+def f4(a, b, a):
+INVALID
+Duplicate parameter names not allowed
+
+answer -> a, b, d
+
+4) Was ist richtig:
+
+a) Eine Programmiersprache kann nicht gleichzeitig objektorientiert und funktional sein.
+b) Funktionen können keine Objekte sein.
+c) Eine Funktion kann ein Parameter einer anderen Funktion sein.
+d) Eine Funktion kann der Returnwert einer anderen Funktion sein.
+e) Die Zahl der Parameter einer Funktion muss genau festgelegt sein, z.B. 2.
+
+answer -> c, d
+
+d) Function can be a return value
+✔ TRUE
+Example:
+
+def outer():
+    def inner():
+        return 1
+    return inner

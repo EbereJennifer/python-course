@@ -1,0 +1,19 @@
+1)
+Listcomprehension: Ausgehend vom Intervall 1-100 eine neue Liste mit den Quadratwurzeln aller Primzahlen erzeugen.
+
+
+2) 
+Ein Dictionary mit konkretem Inhalt "Java": 58, "C++": 42 ... hinschreiben (könnte Ergebnis einer Umfrage sein). Durch Comprehension eine Set erzeugen, wo die Elemente Tupel der Art ("Java", 58) sind.
+
+3) 
+Aus einem range soll eine Liste mit Datumswerten werden, z.b. aus den Zahlen 1, 2, 3 die Datumswerte heute + 1 Tag, heute + 2 Tage, heute + 3 Tage.
+
+
+4)
+Funktion create_random_dates_file(start_date, end_date, count, file_name) 
+soll zufällige Datumswerte (Typ datetime.date) im Bereich von start_date bis end_date erzeugen und zeilenweise in einer Textdatei speichern.
+Funktion read_dates(file_name) soll aus der Datei wieder eine Liste mit Datumswerten machen. 
+
+
+5) 
+Optional: Recherchieren, wie man für die deutsche Zeitzone die Anzahl der Sekunden zwischen zwei Zeitpunkten vor und nach der Umstellung auf Sommerzeit berechnet.

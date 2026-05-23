@@ -1,0 +1,32 @@
+1) 
+Einfache Funktionen mit 0, 1, 2, 3 Parametern schreiben, mindestens eine soll auch ein Ergebnis zurückgeben.
+
+2)
+Funktion print_in_spalten_version_a soll zwei Parameter erhalten: Eine Liste mit Strings sowie eine Liste mit den gewünschten Spaltenbreiten. 
+Die Strings der Liste sollen rechtsbündig in den Spalten ausgegeben werden, alles in einer Zeile.
+
+3)
+Funktion print_in_spalten_version_b soll dieselbe Funktionalität wie print_in_spalten_version_a haben. Sie soll aber nur einen einzigen Parameter (ein Dictionary) haben.
+
+
+4)
+Freiwillig als Übung zu Markdown:
+Zu Hauptthemen des ersten Kurses wie z.B. Datentypen, Schleifen, Dictionaries ... wichtige Punkte herausschreiben und mit den Möglichkeiten des Markdown Formates (Überschriften, fett, kursiv, Listen) in einer Zelle formatieren.
+
+
+Auch Codezellen als Beispiel dazwischensetzen.
+Etwa:
+
+Markdownzelle zu Schleifen
+Codezelle zu Schleifen
+
+Markdownzelle zu Dictionaries
+Codezelle zu Dictionaries
+
+
+
+
+
+
+
+
