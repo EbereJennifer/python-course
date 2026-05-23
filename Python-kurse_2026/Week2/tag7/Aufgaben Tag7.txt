@@ -1,0 +1,21 @@
+Aufgabe 1: 
+Ratespiel: Erst eine Zufallszahl im Bereich 1-20 erzeugen.
+In einer Schleife input abfragen und dann ausgeben, ob input zu klein, zu groß oder genau richtig ist.
+Wenn die richtige Zahl eingegeben wurde, Schleife abbrechen und die Anzahl der benötigten Durchgänge ausgeben.
+
+
+Aufgabe 2: 
+Die Lösung der Aufgabe 1 als Funktion definieren. Dann 5 Runden des Spieles durch Aufrufen der Funktion durchführen und insgesamt eine Liste mit den Returnwerten aufbauen.
+Z.B. Liste [4, 2, 5, 3, 2] bedeutet, man hat in den fünf Spielrunden jeweils 4, 2, 5, 3 und 2 Durchgänge benötigt.
+
+
+Aufgabe 3:
+Ein Dictionary mit 5 Einträgen der Form 
+	Name ==> Telefonnummer
+definieren. Ein zweites Dictionary soll durch Programmieren die Einträge genau andersherum erhalten:
+	Telefonnummer ==> Name
+
+Aufgabe 4:
+Recherchieren: Globale Funktion map angewendet auf Listen
+Durch KI-Tool Beispiel dafür erzeugen lassen, dann versuchen selbst ein ähnliches Beispiel zu programmieren.
+

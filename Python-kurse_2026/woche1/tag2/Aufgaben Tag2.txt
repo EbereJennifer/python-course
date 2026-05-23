@@ -1,0 +1,25 @@
+Aufgabe 1: 
+Vergleichsoperatoren <, <=, ==, !=, >, >= auf ganzen Zahlen ausprobieren.
+Rechenoperationen für Addition, Subtraktion und Multiplikation auf ganzen Zahlen ausprobieren.
+Multiplikationstafel ausgeben, mind. 3 mal 3
+1 2 3
+2 4 6
+3 6 9
+
+
+Aufgabe 2:
+Recherchieren: Exponentialschreibweise für Kommazahlen. Einige Werte so als Variable definieren (mind. 3 physikalische Konstanten nachschauen z.B.Avogadro-Konstante, Lichtgeschwindigkeit, ...)
+Ausrechnen: 100.00 € Startwert, jeweils 3% Zinsen kommen nach jedem Jahr dazu, Gesamtwert nach 1, 2, 3, ..., 10 Jahren
+
+
+Aufgabe 3:
+Folgende Dokumente finden und ein bisschen darin lesen: 
+Zen of Python, PEP8
+Wie kann man das Zen of Python in Pycharm ausgeben?
+Einige andere PEPs kurz anschauen.
+
+
+Aufgabe 4:
+Optional: Einiges zur Vorgängersprache ABC sowie zur Statistiksprache R herausfinden.
+
+

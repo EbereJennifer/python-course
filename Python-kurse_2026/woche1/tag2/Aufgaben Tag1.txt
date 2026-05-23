@@ -1,0 +1,13 @@
+Aufgabe 1: 
+Einige Variable mit Kommazahlen erzeugen und ausgeben.
+
+Aufgabe 2:
+Recherchieren: Wie werden Wahrheitswerte in Python ausgedrückt?
+
+Aufgabe 3:
+Sich mit den möglichen Teilfenstern von Pycharm beschäftigen. 
+
+Aufgabe 4:
+Optional: Video https://www.youtube.com/watch?v=GfH4QL4VqJ0
+
+

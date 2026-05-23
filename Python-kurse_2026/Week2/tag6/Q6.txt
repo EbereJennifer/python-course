@@ -1,0 +1,43 @@
+1) Was erhält man bei
+
+zahlen = [2, 3, 4, 3, 5]
+zahlen.remove(3)
+print(zahlen)
+
+a) [2, 4, 3, 5] 
+b) [2, 4, 5] 
+c) Fehlermeldung
+
+
+
+2) Was erhält man bei
+zahlen = [2, 4, 6, 8]
+abschnitt = zahlen[-1:-3:-1]
+print(abschnitt)
+
+a) [8, 6, 4]
+b) Fehlermeldung
+c) [8, 6] 
+d) [6, 4]
+
+    
+
+
+3) Was trifft auf Listen in Python zu:
+
+a) Man kann neue Elemente hinzufügen
+b) Man kann über die Elemente iterieren
+c) Man kann sie sortieren lassen
+d) liste[len(liste)] gibt das letzte Element zurück
+
+
+
+
+
+
+4) Wie erhält man eine sortierte neue Kopie einer Liste:
+
+a) liste.sort()
+b) liste.sorted()
+c) sorted(liste) 
+d) sort(liste)

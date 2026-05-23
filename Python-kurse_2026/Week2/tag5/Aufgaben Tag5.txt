@@ -1,0 +1,14 @@
+Aufgabe 1: 
+100 Zufallszahlen zwischen 0.0 und 1.0 erzeugen, 
+daraus zwei Listen machen: Eine für die Zahlen <= 0.5, eine für die Zahlen > 0.5.
+Länge der beiden Listen ausgeben.
+
+
+Aufgabe 2:
+Eine Liste mit Ländernamen erzeugen.
+In einer Schleife mit Index und mit Stringlänge ausgeben.
+
+
+
+Aufgabe 3: 
+Liste mit mehreren Lotto-Tipps erzeugen (pro Tipp jeweils 6 aufsteigende Zahlen im Bereich 1 bis 49). Optional: Zufallszahlen verwenden, recherchieren, wie man eine Liste sortiert.

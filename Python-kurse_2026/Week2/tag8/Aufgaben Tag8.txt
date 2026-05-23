@@ -1,0 +1,12 @@
+Aufgabe 1: 
+Ein leeres Dictionary erzeugen. Dann in einer Schleife jeweils nacheinander Key und Value als Input einlesen und im Dictionary ablegen. Wenn beim Key der Wert "Ende" (Großschreibung egal) eingegeben wird, Schleife beenden. Dictionary ausgeben.
+
+
+Aufgabe 2: 
+Recherchieren zu dict() Funktion. Damit ein Dictionary mit einigen Einträgen erzeugen z.B. Personnenname und Lieblingsfarbe. In einer Schleife alle Einträge ausgeben und dabei das Unpacking von Tupeln verwenden.
+
+
+Aufgabe 3:
+Die Sprüche im Zen von Python lesen und darüber nachdenken. Findest du welche davon besonders überzeugend? Oder im Gegenteil nicht so überzeugend?
+
+

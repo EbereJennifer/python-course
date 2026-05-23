@@ -1,0 +1,16 @@
+Aufgabe 1: 
+Eine Funktion read_int_from_input mit Docstring schreiben, die einen ganzzahligen Wert einliest. Ungültige Eingaben (z.B. "abc") sollen nicht zum Abbruch führen, sondern es soll eine kurze Meldung angezeigt werden und das Einlesen soll solange versucht werden, bis ein gültiger int-Wert vorliegt.
+
+
+Aufgabe 2: 
+Analog Funktion read_float_from_input für Kommazahlen.
+
+Aufgabe 3: 
+Drei Angaben einlesen lassen: Produktname, Anzahl, Einzelpreis.
+(z.B. "USB-Stick", 3, 8.99)
+Daraus Gesamtpreis ausrechnen und formatiert ausgeben lassen.
+
+Aufgabe 4:
+Empfehlung: Tageweise durch die Python und Notebook Dateien gehen und sich wichtige Begriffe oder Codestellen übersichtlich notieren.
+
+

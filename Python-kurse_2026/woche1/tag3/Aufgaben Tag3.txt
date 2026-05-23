@@ -1,0 +1,24 @@
+Aufgabe 1: 
+input-Funktion in Skript Aufgabe1.py ausprobieren. Werte für vier Variable der Typen String, ganza Zahl, Kommazahl, Wahrheitswert einlesen, Typen geeignet umwandeln.
+Alle Variable ausgeben, auch ihren Typ anzeigen.
+
+
+
+
+Aufgabe 2:
+Als Skript den Namen einer Operation einlesen lassen, erlaubt Werte sollen sein: "Addition", "Multiplikation", "Potenz".
+Dann die entsprechende Operation mit den Variablen zahl1 und zahl2 ausführen, und das Ergebnis ansprechend ausgeben, z.B. "Die Addition von 12 und 13 liefert 25."
+
+
+
+
+Aufgabe 3: 
+Als Jupyter Notebook:
+Nacheinander drei ganze Zahlen einlesen lassen. Dann folgende Werte berechnen und ausgeben: Minimum der Zahlen, Durchschnittswert der Zahlen, Maximum der Zahlen
+
+
+
+Aufgabe 4:
+Optional: Recherchieren zu Jupyter Notebooks. Wo sind sie entstanden? Werden sie weiterentwickelt? Welche Programmierprachen kann man darin verwenden? Beispiele für Fachbücher, die als ein solches Notebook veröffentlicht sind.
+
+

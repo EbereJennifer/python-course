@@ -1,0 +1,22 @@
+Aufgabe 1: 
+100 Zufallszahlen zwischen 0.0 und 1.0 erzeugen, 
+daraus zwei Listen machen: Eine für die Zahlen <= 0.5, eine für die Zahlen > 0.5.
+Länge der beiden Listen ausgeben.
+
+
+Aufgabe 2:
+In einer geschachtelten Schleife folgende Multiplikationstabelle 3*3 (3 Zeilen, 3 Spalten) erzeugen:
+
+1 2 3
+2 4 6
+3 6 9
+
+Danach verallgemeinern: Funktion definieren mit Parameter n (im Bereich 1-20), die Multiplikationstabelle n*n anzeigt. Hierfür recherchieren: Anzeige ganzer Zahlen mit fester Spaltenbreite. 
+
+
+Aufgabe 3: 
+Liste mit 4 Zufallszahlen erzeugen. Dann alle möglichen Slices (=Teilbereiche) erzeugen und anzeigen: 
+- alle Teilbereiche mit 1 Element
+- alle Teilbereiche mit 2 Elementen
+- alle Teilbereiche mit 3 Elementen
+Falls möglich, Scheifen verwenden.

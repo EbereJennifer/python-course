@@ -1,0 +1,36 @@
+1) Welche Ausgabe erscheint bei print(2, 3, 5)?
+
+a) 235
+b) 2, 3, 5
+c) 2 3 5 
+d) Das Programm zeigt eine Fehlermeldung.
+
+antwort = c
+
+
+
+2) Welche Aussage über Python ist korrekt:
+
+a) Es soll möglichst mehrere Wege geben, um eine Aufgabe zu lösen.
+b) Es soll möglichst nur eine Art geben, eine Aufgabe zu lösen.
+c) Python ist eine funktionale Programmiersprache.
+    
+antwort = b
+
+3) Wie erhält man Hilfe zur print Funktion angezeigt?
+
+a) help(print)
+b) print(help)
+c) show_help(print)
+d) help(function print)
+
+antwort = d
+
+4) Was ist richtig bei den Wahrheitswerten in Python:
+
+a) Es gibt nur zwei mögliche Werte true und false
+b) Es gibt nur zwei mögliche Werte True und False
+c) Auch andere Typen wie Strings, Listen ... können als Bedingungen verwendet werden.
+d) Es gibt einen dritten Wert für Unentschieden.
+
+antwort = b und c 

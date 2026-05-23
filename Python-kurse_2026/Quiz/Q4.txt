@@ -1,0 +1,33 @@
+1) Was sind die Datentypen von "abc" und 'a'?
+
+a) Beides sind Zeichenketten (Strings) 
+b) Ein String und ein Character
+c) 'a' ist keine gültige Schreibweise
+
+
+
+2) Welche Aussagen über Python sind korrekt (0-4):
+
+a) Objektorientierte Programmierung ist möglich
+b) Es gibt Webframeworks in Python.
+c) Python enthält keine funktionalen Elemente.
+d) Python hatte keinen Vorgänger als Programmiersprache.
+
+    
+
+
+3) Welche Funktionen sind schon mitgeliefert:
+
+a) println
+b) help
+c) type
+d) type_of
+
+
+
+4) Ausgabe bei print(1, 3, 5, 7, sep="")
+
+a) 1357
+b) 1, 3, 5, 7
+c) 1,3,5,7
+d) 1 3 5 7

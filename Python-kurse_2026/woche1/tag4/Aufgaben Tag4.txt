@@ -1,0 +1,28 @@
+Aufgabe 1: 
+Recherchieren, wie man folgende Funktionen bei Strings berechnet: Länge, Umwandlung in Kleinbuchstaben, Umwandlung in Großbuchstaben.
+Liste mit einigen Programmiersprachen erzeugen, in einer Schleife zu jeder Sprache Output schreiben z.B.
+Länge 4: Java java JAVA
+
+
+
+
+Aufgabe 2:
+Zwei neue Methoden in Modul random herausfinden und ausprobieren, KI-Hilfe ist erlaubt.
+
+
+
+
+
+Aufgabe 3: 
+Zufallszahl im Bereich 0-23 erzeugen. Fallunterscheidung:
+Wenn Zahl im Bereich 6-11: Ausgeben "Guten Morgen"
+Wenn Zahl im Bereich 12-17: Ausgeben "Guten Tag"
+Wenn Zahl im Bereich 18-22: Ausgeben "Guten Abend"
+Sonst: Ausgeben "Gute Nacht"
+
+
+
+
+Aufgabe 4:
+Stoff der ersten Woche wiederholen.
+
